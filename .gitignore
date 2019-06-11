@@ -45,6 +45,9 @@ build/Release
 node_modules/
 jspm_packages/
 
+# 静态目录就不提交了
+server/public
+
 # TypeScript v1 declaration files
 typings/
 

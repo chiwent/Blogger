@@ -1,4 +1,5 @@
 # Blogger
+<<<<<<< HEAD
 ## Vue2 + Koa2 + MongoDB + SSR 打造的个人博客
 
 fork自：[vue-blog](https://github.com/BUPT-HJM/vue-blog)<br>
@@ -63,3 +64,6 @@ npm run pm2
 
 关于服务端渲染，可以参看个人的博文：[Vue SSR初上手](https://github.com/chiwent/blog/issues/11)<br>
 
+=======
+Vue2 + Koa2 + MongoDB + SSR
+>>>>>>> f61a99677a87a4ff8053d37e805c910685894125
