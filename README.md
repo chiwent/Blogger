@@ -7,6 +7,7 @@ fork自：[vue-blog](https://github.com/BUPT-HJM/vue-blog)<br>
 - 管理页： vue spa
 
 ## 重点说明
+![warning](https://raw.githubusercontent.com/chiwent/Blogger/master/demo/warning.PNG)
 本项目只是花了几天的时间草草写了一下，就上传到GitHub了，部分代码实现的方式可能会很*奇葩*（特别是sql），甚至注释可能都没加全。但是老罗说得好：<b>理解万岁</b>，后续有时间的话应该会修正一下代码<br>
 
 ### 自定义配置
