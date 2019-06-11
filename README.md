@@ -1,5 +1,4 @@
 # Blogger
-<<<<<<< HEAD
 ## Vue2 + Koa2 + MongoDB + SSR 打造的个人博客
 
 fork自：[vue-blog](https://github.com/BUPT-HJM/vue-blog)<br>
@@ -8,7 +7,8 @@ fork自：[vue-blog](https://github.com/BUPT-HJM/vue-blog)<br>
 - 管理页： vue spa
 
 ## 重点说明
-![warning](https://raw.githubusercontent.com/chiwent/Blogger/master/demo/warning.PNG)
+![warning](https://raw.githubusercontent.com/chiwent/Blogger/master/demo/warning.PNG)<br>
+
 本项目只是花了几天的时间草草写了一下，就上传到GitHub了，部分代码实现的方式可能会很*奇葩*（特别是sql），甚至注释可能都没加全。但是老罗说得好：<b>理解万岁</b>，后续有时间的话应该会修正一下代码<br>
 
 ### 自定义配置
@@ -62,8 +62,7 @@ npm run pm2
 #### 后台页
 ![admin-1](https://raw.githubusercontent.com/chiwent/Blogger/master/demo/admin-1.PNG)
 
+<br>
+
 关于服务端渲染，可以参看个人的博文：[Vue SSR初上手](https://github.com/chiwent/blog/issues/11)<br>
 
-=======
-Vue2 + Koa2 + MongoDB + SSR
->>>>>>> f61a99677a87a4ff8053d37e805c910685894125
