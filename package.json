@@ -37,7 +37,7 @@
     "mavon-editor": "^2.7.4",
     "md5": "^2.2.1",
     "moment": "^2.18.1",
-    "mongoose": "^4.9.3",
+    "mongoose": "^5.7.5",
     "nodemailer": "^6.2.1",
     "nodemailer-smtp-transport": "^2.7.4",
     "nodemon": "^1.19.0",
