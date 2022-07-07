@@ -36,7 +36,7 @@
     "marked": "^0.3.6",
     "mavon-editor": "^2.7.4",
     "md5": "^2.2.1",
-    "moment": "^2.18.1",
+    "moment": "^2.29.4",
     "mongoose": "^4.9.3",
     "nodemailer": "^6.2.1",
     "nodemailer-smtp-transport": "^2.7.4",
