@@ -83,7 +83,7 @@
     "html-webpack-plugin": "^2.28.0",
     "jsdom": "^15.0.0",
     "jsdom-global": "^3.0.2",
-    "jsonwebtoken": "^7.3.0",
+    "jsonwebtoken": "^9.0.0",
     "koa-body": "^4.1.0",
     "koa-proxies": "^0.8.1",
     "koa-proxy": "^1.0.0-alpha.0",
